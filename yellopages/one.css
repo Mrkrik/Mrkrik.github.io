@@ -6,4 +6,15 @@
 .svg{
 	width: 70px;
 }
+.main-logo{
+	transform: scale(0.5);
+	position: absolute;
+	margin-top: -50px;
+	margin-left: -40px;
+
+}
+}
+.main-logo{
+	 width: 150px; left: 0; top:15px;
+	position: absolute;
 }
